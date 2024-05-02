@@ -1,0 +1,6 @@
+@KunjawMod9_HostAddress = http://localhost:5246
+
+GET {{KunjawMod9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
